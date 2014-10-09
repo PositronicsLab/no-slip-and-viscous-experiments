@@ -2,8 +2,8 @@
 
 This directory contains an experiment that models quadrupedal locomotion using
 both no-slip and purely viscous contact models. The experiment requires
-installing both [Moby](http://github.com/PositronicsLab/Moby) and [
-Pacer](http://github.com/PositronicsLab/Pacer). See
+installing [Ravelin](http://github.com/PositronicsLab/Ravelin), [Moby](http://github.com/PositronicsLab/Moby), and [Pacer](http://github.com/PositronicsLab/Pacer). Versions of the software that were used to conduct the experiments 
+are included. See
 installation pages for both libraries to determine installation requirements,
 including architecture and required 3rd party packages. 
 
