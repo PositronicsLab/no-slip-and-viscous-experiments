@@ -12,8 +12,11 @@ prompt, then type the following command:
 
 # Running the grasp experiment
 
-A grasp experiment can be run by typing _grasp(nboxes, num-iterations)_, where
-_nboxes_ is the number of boxes to use and _num-iterations_ is the number
+A grasp experiment can be run by typing:
+
+    >>  grasp(nboxes, num-iterations)
+
+ where _nboxes_ is the number of boxes to use and _num-iterations_ is the number
 of iterations to run the simulation for. When the simulation has terminated,
 the total number of seconds that it ran will be output.
 
