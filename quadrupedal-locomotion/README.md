@@ -2,13 +2,14 @@
 
 This directory contains an experiment that models quadrupedal locomotion using
 both no-slip and purely viscous contact models. The experiment requires
-installing both [Moby](http://github.com/PositronicsLab/Moby) and XX. See
+installing both [Moby](http://github.com/PositronicsLab/Moby) and [
+Pacer](http://github.com/PositronicsLab/Pacer). See
 installation pages for both libraries to determine installation requirements,
 including architecture and required 3rd party packages. 
 
 # Running the experiments
 
-Assuming that both _Moby_ and _XX_ are built, you will run the no-slip 
+Assuming that both _Moby_ and _Pacer_ are built, you will run the no-slip 
 experiment using the following command:
 
     $ moby-driver -p=./libLinksPlugin.so MODELS/links-no-slip.xml
