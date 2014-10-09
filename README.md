@@ -8,5 +8,11 @@ The repository consists of two experiments:
 * quadrupedal locomotion (experiment #2)
 
 Necessary code and data for running the individual experiments can be found
-in their respective sub-directories.
+in their respective sub-directories. 
+
+## Installing software
+
+**You can install _RPI-Sim_, _Moby_, and _XX_ from
+scratch, but the code in the underlying subdirectories was used to
+directly run the experiments. Using other versions may affect reproducibility.**
 
